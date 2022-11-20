@@ -6,7 +6,14 @@ Ph.D. Student in Department of Computer Science, City University of Hong Kong.
 
 Bachelor in engineering, Beihang University
 
-### Markdown
+## Publications
+**Bowei He***, Zhenting Zhao*, Wenhao Luo, Rui Liu, **Collective Conditioned Reflex: A Bio-Inspired Fast Emergency Reaction Mechanism for Designing Safe Multi-Robot Systems**. 
+
+**IEEE Robotics and Automation Letters** (also seen in **IROS2022**)
+
+[arXiv](https://arxiv.org/pdf/2202.11932).
+
+### markdone
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
