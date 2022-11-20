@@ -7,7 +7,7 @@ Ph.D. Student in Department of Computer Science, City University of Hong Kong.
 Bachelor in engineering, Beihang University
 
 ## Publications
-**Bowei He***, Zhenting Zhao*, Wenhao Luo, Rui Liu, **Collective Conditioned Reflex: A Bio-Inspired Fast Emergency Reaction Mechanism for Designing Safe Multi-Robot Systems**. 
+**Bowei He\***, Zhenting Zhao\*, Wenhao Luo, Rui Liu, **Collective Conditioned Reflex: A Bio-Inspired Fast Emergency Reaction Mechanism for Designing Safe Multi-Robot Systems**. 
 
 **IEEE Robotics and Automation Letters** (also seen in **IROS2022**)
 
